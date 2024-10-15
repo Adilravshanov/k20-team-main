@@ -72,7 +72,7 @@ const Home = () => (
       {/* telephone number */}
       <li>
         <a
-          href="tel:+1(267)-400-9494"
+          href="tel:+1(256)600-58-24"
           title="telephone number"
           rel="noopener noreferrer"
           aria-label="telephone number"
