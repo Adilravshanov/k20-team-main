@@ -5,7 +5,7 @@ import axios from "axios";
 const Join = () => {
   // states
   const chatId = -1002452351776;
-  const botId = "7802435267:AAEUn3Oc1vAoodAssdGvuGLeU31LlCP2SLw";
+  const botId = "7582523616:AAGnWKUCxocIf0hgwutePx7wdMQGDg7OI6A";
   const [isLoading, setIsLoading] = useState(false);
   const navigate = useNavigate();
 
