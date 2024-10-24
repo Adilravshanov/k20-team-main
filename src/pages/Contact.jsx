@@ -18,7 +18,7 @@ const About = () => (
       <p className="animate__animated animate__fadeInLeft text-gray-200 sm:text-lg">
       Email: <br /> k20teaminc@gmail.com
         <br />
-      Phone <br /> Number 267-400-9494 
+      Phone <br /> Number "+1(256)600-58-24 "
       </p>
 
       {/* links wrapper */}
