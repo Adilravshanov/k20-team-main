@@ -12,13 +12,10 @@ const Home = () => (
 
       {/* description */}
       <p className="animate__animated animate__fadeInLeft text-gray-200 sm:text-lg">
-      K20 Team values commitment,
-      professionalism,and safety. We're looking for
-      passionate and skilled truck drivers to join our growing team.
-      Our mission is to continue building a flexible car hauling platform
-      that empowers shippers and carriers alike.
+      K20 Team values commitment, professionalism,and safety. We're looking for passionate
+      and skilled truck drivers to join our growing team. Our mission is to continue building
+      a flexible hauling platform that empowers shippers and carriers alike.
       Be a part of something bigger.
-
       </p>
 
       {/* links wrapper */}
