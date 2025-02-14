@@ -11,13 +11,13 @@ const About = () => (
 
       {/* description */}
       <p className="animate__animated animate__fadeInLeft text-gray-200 sm:text-lg">
-      K20 Team is an auto transport logistics partner
-      that provides a customizable software solution built
-      to fulfill all your car hauling needs. Our tools are designed
-      to maximize your businesses ability to streamline, automate and organize
-      your entire car hauling process from start to finish.
-      Our mission is to continue building a flexible car hauling platform
-      that empowers shippers and carriers alike.
+      K20 Team is logistics partner that provides a customizable 
+      software solution built to fulfill all your hauling needs. Our tools
+      are designed to maximize your businesses ability to streamline, automate 
+      and organize your entire hauling process from start to finish.
+      Our mission is to continue building a flexible hauling platform
+      that empowers shippers and carriers alike. <br /><br />
+      • K20 Team works with Amazon only
       </p>
 
       {/* links wrapper */}
